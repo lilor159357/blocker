@@ -1,3 +1,4 @@
 127.0.0.1 peoplestack-pa.googleapis.com
 127.0.0.1 streetviewpixels-pa.googleapis.com
 127.0.0.1 gz0.googleusercontent.com
+127.0.0.1 lh3.googleusercontent.com
